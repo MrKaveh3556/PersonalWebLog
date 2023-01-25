@@ -1,0 +1,51 @@
+#menu, .main, .sidebar, .footer {
+  font-family: sans-serif;
+  background-color: #f2f2f2;
+}
+
+#menu {
+  width: 100%;
+  background-color: #444;
+  padding: 14px 0;
+}
+
+#menu ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#menu li {
+  display: inline-block;
+}
+
+#menu a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+#menu a.active {
+  background-color: #3b5998;
+}
+
+.contttttttttttttt {
+  width: 100%;
+  flex-direction: column;
+  margin: auto;
+}
+
+.main {
+  width: 100%;
+  text-align: center;
+}
+
+.sidebar {
+  float: right;
+  width: 250px;
+}
+
+.footer
+{
+direction: ltr;
+}
